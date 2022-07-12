@@ -23,7 +23,7 @@ To deploy the smart contracts, open the `svelte-dapp` project in another termina
 Copy the address of the contract in the output of `truffle migrate`:
 
 
-![](https://paper-attachments.dropbox.com/s_8757B26236083306DECDA856E12454AF78D91FB78E5AA03B64C2BD5A9485DB1E_1657619952670_image.png)
+![](assets/image_01.png)
 
 > **Note:** make sure that the address you copy is for the `StoreMessage` contract.
 
